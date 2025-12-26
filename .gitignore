@@ -18,3 +18,6 @@ Makefile
 # IDEs
 .vscode/
 *.swp
+# Sensitive files
+token*.txt
+token*.key
