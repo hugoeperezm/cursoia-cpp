@@ -1,0 +1,6 @@
+# Ensure consistent handling of line endings and mark binary files
+* text=auto
+*.cpp text
+*.h text
+*.md text
+*.yml text
